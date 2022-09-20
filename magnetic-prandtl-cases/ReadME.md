@@ -1,0 +1,1 @@
+Results from cases varying magnetic Prandtl. Doing so allowed a determination of a "limit" where dynamo activity could be sustained based on constant parameters and a range of magnetic prandtl values.
